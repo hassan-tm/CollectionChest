@@ -1,0 +1,2 @@
+# CollectionChest
+Minecraft Plugin
